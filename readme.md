@@ -4,6 +4,7 @@
 * [Author](#author)
 * [Compile](#compile)
 * [Usage](#usage) 
+* [TODO](#todo)
 * [License](#license)
 
 
@@ -50,6 +51,12 @@ leguan.config:
 {modules, [test_module]}.
 
 ```
+
+## TODO <a name="todo"></a>
+Add optionst to escript:
+* ``--pa`` to add code paths
+* ``-m`` or ``--modules`` to add modules
+* ``-n`` or ``--nodes`` to add nodes
 
 ## License <a name="license"></a>
 
