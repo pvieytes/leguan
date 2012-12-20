@@ -27,6 +27,8 @@ This project uses rebar. More info about rebar: https://github.com/basho/rebar
 
 ## Usage <a name="examples"></a>
 
+To run the leguan escript must be leguan.config file in the same dir.
+
 leguan.config:
 
 ```erlang
